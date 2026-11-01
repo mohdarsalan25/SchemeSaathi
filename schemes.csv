@@ -1,0 +1,7 @@
+
+name,description,benefit,min_age,max_age,state,occupation,max_income,category,gender
+National Scholarship Portal,Scholarship discovery for eligible students,Education support,16,35,All India,Student,,Any,Any
+PM-KISAN,Income support for eligible landholding farmer families,Financial assistance,18,100,All India,Farmer,,Any,Any
+Pradhan Mantri Mudra Yojana,Credit support for eligible non-corporate small businesses,Business loans,18,100,All India,Any,,Any,Any
+National Career Service,Employment and career services including job search,Employment support,18,100,All India,Any,,Any,Any
+Karnataka Student Support,Illustrative state-level student support record,Education support,16,35,Karnataka,Student,,Any,Any
