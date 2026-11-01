@@ -1,7 +1,8 @@
-
-name,description,benefit,min_age,max_age,state,occupation,max_income,category,gender
-National Scholarship Portal,Scholarship discovery for eligible students,Education support,16,35,All India,Student,,Any,Any
-PM-KISAN,Income support for eligible landholding farmer families,Financial assistance,18,100,All India,Farmer,,Any,Any
-Pradhan Mantri Mudra Yojana,Credit support for eligible non-corporate small businesses,Business loans,18,100,All India,Any,,Any,Any
-National Career Service,Employment and career services including job search,Employment support,18,100,All India,Any,,Any,Any
-Karnataka Student Support,Illustrative state-level student support record,Education support,16,35,Karnataka,Student,,Any,Any
+name,description,benefit,min_age,max_age,state,occupation,max_income,category,gender,official_url,scheme_type,keywords,source_note
+National Scholarship Portal,Scholarship discovery for eligible students,Education support,16,35,All India,Student,,Any,Any,https://scholarships.gov.in/,Education,scholarship education student college,Verify eligibility on official portal
+PM-KISAN,Income support for eligible landholding farmer families,Financial assistance,18,100,All India,Farmer,,Any,Any,https://pmkisan.gov.in/,Agriculture,farmer agriculture income support,Verify current scheme rules
+Pradhan Mantri Mudra Yojana,Credit support for eligible non-corporate small businesses,Business loans,18,100,All India,Self-employed,,Any,Any,https://www.mudra.org.in/,Credit,business loan entrepreneur,Verify lender requirements
+National Career Service,Employment and career services including job search,Employment support,18,100,All India,Any,,Any,Any,https://www.ncs.gov.in/,Employment,job career employment training,Check official portal
+Karnataka Student Support,Illustrative state-level student support record,Education support,16,35,Karnataka,Student,,Any,Any,https://ssp.postmatric.karnataka.gov.in/,Education,karnataka student scholarship education,Verify current scheme availability
+Pradhan Mantri Awas Yojana,Housing assistance information and programme resources,Housing assistance,18,100,All India,Any,,Any,Any,https://pmaymis.gov.in/,Housing,housing home urban rural,Verify current eligibility
+Stand-Up India,Information about loans for eligible women and SC ST entrepreneurs,Business loans,18,100,All India,Self-employed,,Any,Any,https://www.standupmitra.in/,Credit,business loan women entrepreneur SC ST,Verify current scheme rules
